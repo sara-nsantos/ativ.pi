@@ -1,6 +1,3 @@
-# meu-primeiro-repo
-Este é o meu primeiro repositório
+## Pesquisa & inovação
 
-Fiz uma alteração no repositório remoto no Github.
-
-Fiz uma alteração local na minha máquina.
+Repositório destinado para entrega de atividades de pi.
