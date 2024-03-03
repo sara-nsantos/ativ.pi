@@ -1,0 +1,43 @@
+.body{
+    margin: 0;
+    background-color: grey;
+}
+
+.card {
+    width: 500px; 
+    height: fit-content; 
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: rgb(255, 249, 221); 
+    margin: 15px;
+}
+
+.card-img {
+    width: 100px; 
+    border-radius: 50%;
+}
+
+.card-img img {
+    width:75%; 
+    height: 75%; 
+    margin: 10px;
+}
+
+.card-title {
+    font-size: 35px;
+    margin: 15px;
+}
+
+ .paragrafo {
+   margin: 15px;
+}
+
+.card-name {
+    color: rgb(0, 116, 145);
+}
+
+.card-frase {
+    font-style: italic;
+    font-weight: bold;
+    color: brown;
+}
